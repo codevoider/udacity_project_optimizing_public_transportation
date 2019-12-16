@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "weather.value",
+  "namespace": "com.udacity.phuri.kafka.cta",
+  "fields": [
+    {"name": "temperature", "type": "float"},
+    {"name": "status", "type": "string"}
+  ]
+}
